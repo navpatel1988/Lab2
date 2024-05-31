@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoire 2</string>
+    <string name="toast_message">L\'étiquette a été mise à jour</string>
+    <string name="snackbar_checkbox_off">La case à cocher est maintenant désactivée</string>
+    <string name="snackbar_checkbox_on">La case à cocher est maintenant activée</string>
+    <string name="snackbar_undo">Annuler</string>
+    <string name="switch_on_off">Allumer/Éteindre</string>
+    <string name="button_press_me">Appuyez-moi</string>
+    <string name="checkbox_check_this_out">Vérifiez ça!</string>
+    <string name="hint_edit_text">J\'aime Android</string>
+</resources>
